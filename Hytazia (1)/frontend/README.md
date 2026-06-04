@@ -1,0 +1,1 @@
+Frontend skeleton (Next.js). Set NEXT_PUBLIC_API_URL to backend URL.
